@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+assess2,Chrome 125.0.0.0,,,14-06-2024 14:45:39,14-06-2024 14:48:17,2m - 37.932s,FAILED
+,,,,,,,
+Test Cases/bonsecours/boncollege,Chrome 125.0.0.0,,,14-06-2024 14:48:06,14-06-2024 14:48:17,11.245s,FAILED
+"openBrowser("""")",Chrome 125.0.0.0,,,14-06-2024 14:48:06,14-06-2024 14:48:08,2.117s,PASSED
+"navigateToUrl(""https://bonsecoursdindigul.edu.in/"")",Chrome 125.0.0.0,,,14-06-2024 14:48:08,14-06-2024 14:48:16,7.562s,PASSED
+"click(findTestObject(""Object Repository/assessment2/Page_Bon Secours Arts and Science College f_57e84e/a_Home""))",Chrome 125.0.0.0,,,14-06-2024 14:48:16,14-06-2024 14:48:17,0.945s,PASSED
+"click(findTestObject(""Object Repository/assessment2/Page_Bon Secours Arts and Science College f_57e84e/a_Our Congregation""))",Chrome 125.0.0.0,,,14-06-2024 14:48:17,14-06-2024 14:48:17,0.595s,FAILED
